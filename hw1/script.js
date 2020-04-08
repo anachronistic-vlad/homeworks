@@ -1,7 +1,7 @@
 console.log("sfsaf");
 
 console.log("This is the outer level");
-console.group();
+console.group(); // тут надо было написать по другому
 console.log("Level 2");
 console.group();
 console.log("Back to level 2");
